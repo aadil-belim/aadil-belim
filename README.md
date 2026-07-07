@@ -11,16 +11,16 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aadilbelim"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aadilbelim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aadilbelim222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/aadilbelim"><img src="https://img.shields.io/badge/GitHub-Follow-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aadil-belim222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/aadil-belim"><img src="https://img.shields.io/badge/GitHub-Follow-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aadilbelim&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/aadilbelim?label=Followers&style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/github/stars/aadilbelim?label=Stars&style=flat-square&color=4C1D95"/>
+<img src="https://komarev.com/ghpvc/?username=aadil-belim&label=Profile%20Views&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/aadil-belim?label=Followers&style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/github/stars/aadil-belim?label=Stars&style=flat-square&color=4C1D95"/>
 
 </div>
 
@@ -274,10 +274,10 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadilbelim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=aadilbelim&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadil-belim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=aadil-belim&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilbelim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-belim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" height="165"/>
 
 </div>
 
@@ -289,7 +289,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadilbelim&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aadil-belim&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
@@ -301,7 +301,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadilbelim&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadil-belim&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -313,7 +313,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aadilbelim/aadilbelim/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aadil-belim/aadil-belim/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -350,10 +350,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:aadilbelim222@gmail.com"><img src="https://img.shields.io/badge/Gmail-aadilbelim222%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aadilbelim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/aadilbelim"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aadilbelim"><img src="https://img.shields.io/badge/Portfolio-Visit-2E1065?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:aadil-belim222@gmail.com"><img src="https://img.shields.io/badge/Gmail-aadil-belim222%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/aadil-belim"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/Portfolio-Visit-2E1065?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
