@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aadil-belim222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aadilbelim222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/aadil-belim"><img src="https://img.shields.io/badge/GitHub-Follow-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -58,23 +58,30 @@ I care about **production-grade engineering**: PCI-compliant payment flows, auto
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-2E1065?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-4C1D95?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **ERP & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,odoo&theme=dark"/>
-<img src="https://img.shields.io/badge/Odoo-ERP%20(v6--v19)-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-Integration-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-2E1065?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
-<img src="https://img.shields.io/badge/pgvector-RAG%20%2F%20Vector%20Search-6D28D9?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-RAG%20%2F%20Vector%20Search-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,linux&theme=dark"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Pipelines-4C1D95?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-2E1065?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-4C1D95?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-6D28D9?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-2E1065?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-4C1D95?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
@@ -274,12 +281,16 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadil-belim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=aadil-belim&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadil-belim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=6D28D9&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=aadil-belim&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6D28D9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-belim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" height="165"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-belim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%"/>
 
 </div>
+
+> **Note:** These widgets pull live data from your public GitHub activity, so they'll populate as soon as your `aadil-belim/aadil-belim` repo is public and you have public commits/repos. The free hosted instance (`vercel.app`) occasionally rate-limits under heavy global traffic — if a card shows "Failed to retrieve," it usually clears within a few minutes on refresh. For guaranteed uptime, you can deploy your own free instance from the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the domain in the URLs above.
 
 <br/>
 
@@ -289,7 +300,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadil-belim&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aadil-belim&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -301,7 +312,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadil-belim&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadil-belim&theme=github-compact&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -313,9 +324,15 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aadil-belim/aadil-belim/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadil-belim/aadil-belim/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadil-belim/aadil-belim/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/aadil-belim/aadil-belim/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
+
+> This appears blank/404 until the `snake.yml` workflow (below) has run at least once inside your `aadil-belim/aadil-belim` repo and pushed to its `output` branch.
 
 <br/>
 
@@ -350,7 +367,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:aadil-belim222@gmail.com"><img src="https://img.shields.io/badge/Gmail-aadil-belim222%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aadilbelim222@gmail.com"><img src="https://img.shields.io/badge/Gmail-aadilbelim222%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/aadil-belim"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/Portfolio-Visit-2E1065?style=for-the-badge&logo=vercel&logoColor=white"/></a>
