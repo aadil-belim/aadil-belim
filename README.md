@@ -281,16 +281,16 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadil-belim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=6D28D9&count_private=true&cache_seconds=1800" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=aadil-belim&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6D28D9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aadil-belim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=aadil-belim&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6D28D9" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-belim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aadil-belim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 </div>
 
-> **Note:** These widgets pull live data from your public GitHub activity, so they'll populate as soon as your `aadil-belim/aadil-belim` repo is public and you have public commits/repos. The free hosted instance (`vercel.app`) occasionally rate-limits under heavy global traffic — if a card shows "Failed to retrieve," it usually clears within a few minutes on refresh. For guaranteed uptime, you can deploy your own free instance from the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the domain in the URLs above.
+> `github-readme-stats.vercel.app` (the original project) is now largely inactive due to persistent rate-limiting, so the cards above use **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)** — the actively maintained successor, same author community, drop-in compatible. If a card ever shows "Failed to retrieve" again, refresh after a minute — GitHub caches README images briefly.
 
 <br/>
 
@@ -300,9 +300,11 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadil-belim&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=12&margin-h=12"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=aadil-belim&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=12&margin-h=12"/>
 
 </div>
+
+> The main `github-profile-trophy.vercel.app` instance is frequently paused by its owner due to traffic. The URL above uses one of the [official load-balanced community mirrors](https://github.com/ryo-ma/github-profile-trophy#share-your-github-profile-trophy-url-deployed-to-vercel-for-load-balancing) listed in the project's own README for better uptime.
 
 <br/>
 
@@ -332,7 +334,7 @@ Completed a 3-month intensive training program covering Python, PostgreSQL, Odoo
 
 </div>
 
-> This appears blank/404 until the `snake.yml` workflow (below) has run at least once inside your `aadil-belim/aadil-belim` repo and pushed to its `output` branch.
+> Uses a minimalist violet-on-charcoal palette matching the rest of this profile, instead of GitHub's default green. It will appear blank/404 until the `snake.yml` workflow has run once inside your `aadil-belim/aadil-belim` repo and pushed to its `output` branch — see setup steps below.
 
 <br/>
 
