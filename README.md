@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://aadil-belim-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aadil-belim"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aadilbelim222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/aadil-belim"><img src="https://img.shields.io/badge/GitHub-Follow-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
